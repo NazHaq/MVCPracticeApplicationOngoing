@@ -20,7 +20,7 @@ namespace ASP.NET_MVC_Application.Controllers
             return View();
         }
 
-        [Authorize]
+       // [Authorize]
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";

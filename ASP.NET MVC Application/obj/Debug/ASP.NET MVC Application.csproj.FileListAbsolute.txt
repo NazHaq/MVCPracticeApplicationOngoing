@@ -108,3 +108,58 @@ C:\Users\nazmul.haque\Documents\Visual Studio 2015\Projects\ASP.NET MVC Applicat
 C:\Users\nazmul.haque\Documents\Visual Studio 2015\Projects\ASP.NET MVC Application\ASP.NET MVC Application\obj\Debug\ASP.NET MVC Application.csprojResolveAssemblyReference.cache
 C:\Users\nazmul.haque\Documents\Visual Studio 2015\Projects\ASP.NET MVC Application\ASP.NET MVC Application\obj\Debug\ASP.NET MVC Application.dll
 C:\Users\nazmul.haque\Documents\Visual Studio 2015\Projects\ASP.NET MVC Application\ASP.NET MVC Application\obj\Debug\ASP.NET MVC Application.pdb
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\ASP.NET MVC Application.dll.config
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\ASP.NET MVC Application.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\ASP.NET MVC Application.pdb
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Antlr3.Runtime.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\EntityFramework.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\EntityFramework.SqlServer.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.Owin.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.Owin.Security.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Newtonsoft.Json.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Owin.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\System.Web.Helpers.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\System.Web.Mvc.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\System.Web.Optimization.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\System.Web.Razor.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\System.Web.WebPages.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\System.Web.WebPages.Razor.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\WebGrease.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\EntityFramework.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\EntityFramework.SqlServer.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Newtonsoft.Json.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\System.Web.Helpers.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\System.Web.Mvc.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\System.Web.Optimization.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\System.Web.Razor.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\System.Web.WebPages.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\System.Web.WebPages.Razor.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Antlr3.Runtime.pdb
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.Owin.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.Owin.Security.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\obj\Debug\ASP.NET MVC Application.csprojResolveAssemblyReference.cache
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\obj\Debug\ASP.NET MVC Application.dll
+C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\obj\Debug\ASP.NET MVC Application.pdb
