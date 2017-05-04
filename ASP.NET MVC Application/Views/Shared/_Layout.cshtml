@@ -20,6 +20,7 @@
                 </button>
                <!-- @Html.ActionLink("Nazmul's Personal Webpage", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })-->
             </div>
+
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Home", "Index", "Home", routeValues: null, htmlAttributes: new { id = "homepageLink" })</li>
@@ -27,9 +28,31 @@
                     <li>@Html.ActionLink("Contact Details", "Contact", "Home", routeValues: null, htmlAttributes: new { id = "contactpageLink" })</li>
                     <li>@Html.ActionLink("Clients", "Index", "Client", routeValues: null, htmlAttributes: new { id = "clientpageLink" })</li>
                     <li>@Html.ActionLink("Subscriptions", "Index", "Naz", routeValues: null, htmlAttributes: new { id = "subscriptionpageLink" })</li>
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Future Students <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+
+                            <li>@Html.ActionLink("List of students", "Index", "Students", routeValues: null, htmlAttributes: new { id = "homepageLink" })</li>
+                            <li>@Html.ActionLink("List of courses", "Index", "Courses", routeValues: null, htmlAttributes: new { id = "aboutpageLink" })</li>
+                            <li>@Html.ActionLink("List of enrollments", "Index", "Enrollments", routeValues: null, htmlAttributes: new { id = "contactpageLink" })</li>
+                            <li class="divider"></li>
+                            <li><a href="#">Separated link</a></li>
+                            <li class="divider"></li>
+                            <li><a href="#">One more separated link</a></li>
+                        </ul>
+                    </li>
                 </ul>
+                <form class="navbar-form navbar-left" role="search">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search">
+                    </div>
+                    <button type="submit" class="btn btn-default">Submit</button>
+                </form>
+
                 @Html.Partial("_LoginPartial")
             </div>
+
         </div>
     </div>
     <div class="container body-content">

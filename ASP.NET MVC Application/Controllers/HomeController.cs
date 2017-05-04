@@ -10,6 +10,22 @@ namespace ASP.NET_MVC_Application.Controllers
     {
         public ActionResult Index()
         {
+
+
+            //Creating generic list
+            List<SelectListItem> ObjList = new List<SelectListItem>()
+            {
+                new SelectListItem { Text = "Electrical", Value = "1" },
+                new SelectListItem { Text = "Electronics", Value = "2" },
+                new SelectListItem { Text = "Computer Science", Value = "3" },
+                new SelectListItem { Text = "Mechanical", Value = "4" },
+                new SelectListItem { Text = "Civil", Value = "5" },
+                new SelectListItem { Text = "Information Technology", Value = "6" },
+
+            };
+            //Assigning generic list to ViewBag
+            ViewBag.Locations = ObjList;
+
             return View();
         }
 

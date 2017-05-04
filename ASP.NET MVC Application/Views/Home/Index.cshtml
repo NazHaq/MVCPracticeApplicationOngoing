@@ -5,28 +5,34 @@
 <div class="jumbotron">
     <h1>Nazmul Haque</h1>
     <p class="lead">Nazmul was born in Bangaldesh and then migrated to Australia.</p>
-    <p><a href="https://www.linkedin.com/feed/" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+    <p><a href="http://www.unsworks.unsw.edu.au/primo_library/libweb/action/dlDisplay.do?vid=UNSWORKS&docId=unsworks_10862" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
 </div>
-<div>
-    @Html.ActionLink("List of students", "Index", "Students")<br />
-    @Html.ActionLink("List of courses", "Index", "Courses")<br />
-    @Html.ActionLink("List of enrollments", "Index", "Enrollments")
+
+
+<div class="form-horizontal">
+    <div class="col-lg-offset-10" style="margin-top:20px">
+
+        @Html.DropDownList("ObjList", (IEnumerable<SelectListItem>)ViewBag.Locations, new { id = "ddlLocations", @class = "form-control" })<br />
+        <br />
+    </div>
 </div>
+
+
 
 <div class="row">
     <div class="col-md-4">
         <div class="well well-sm"><h2>About Hometown</h2></div>
         <p>
-            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
-            enables a clean separation of concerns and gives you full control over markup
-            for enjoyable, agile development.
+            I was born in a little town name Natore in Bangladesh. Its a beautiful city I always dream about my city and I visit my city every year or two.
         </p>
-        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+        <p><a class="btn btn-default" href="https://en.wikipedia.org/wiki/Natore_District">Learn more &raquo;</a></p>
     </div>
     <div class="col-md-4">
         <div class="well well-sm"><h2>About Student Life</h2></div>
-        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
-        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+        <p>I graduated from Electrical and Electroinc Engineering with 2nd place in my class out of 110 students. Then I was offered a lecturer position in the same University. Then after few months I got a schollarship offer from University of New South Wales, Australia. 
+        I came to Australia at the begining of 2009 and finished my PhD with number of Journal articles published in different internal journals and books.
+        .</p>
+        <p><a class="btn btn-default" href="http://www.unsworks.unsw.edu.au/primo_library/libweb/action/dlDisplay.do?vid=UNSWORKS&docId=unsworks_10862">Learn more &raquo;</a></p>
     </div>
     <div class="col-md-4">
         <div class="well well-sm"><h2>About Job</h2></div>
