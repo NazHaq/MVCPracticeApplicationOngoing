@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using PagedList;
+using ASP.NET_MVC_Application.Models;
 
 namespace ASP.NET_MVC_Application.Controllers
 {

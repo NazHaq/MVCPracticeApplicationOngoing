@@ -7,6 +7,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using ASP.NET_MVC_Application.Models;
+using PagedList;
 
 namespace ASP.NET_MVC_Application.Controllers
 {
@@ -15,10 +16,66 @@ namespace ASP.NET_MVC_Application.Controllers
         private TestDataBaseEntities1 db = new TestDataBaseEntities1();
 
         // GET: Courses
-        public ActionResult Index()
+        //   public ActionResult Index()
+        //   {
+        //      return View(db.Courses.ToList());
+        //  }
+
+
+        public ViewResult Index(string sortOrder, string currentFilter, string searchString, int? page)
         {
-            return View(db.Courses.ToList());
+            ViewBag.CurrentSort = sortOrder;
+            ViewBag.NameSortParm = String.IsNullOrEmpty(sortOrder) ? "name_desc" : "";
+            ViewBag.DateSortParm = sortOrder == "Date" ? "date_desc" : "Date";
+
+            if (searchString != null)
+            {
+                page = 1;
+            }
+            else
+            {
+                searchString = currentFilter;
+            }
+
+            ViewBag.CurrentFilter = searchString;
+
+            var courses = from s in db.Courses
+                           select s;
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                courses = courses.Where(s => s.Title.Contains(searchString)
+                                       || s.Title.Contains(searchString));
+
+                if (courses == null)
+                {
+                    //pass the proper message such as "No results found"
+                }
+            }
+
+
+            switch (sortOrder)
+            {
+                case "name_desc":
+                    courses = courses.OrderByDescending(s => s.Title);
+                    break;
+                case "Date":
+                    courses = courses.OrderBy(s => s.CourseID);
+                    break;
+                case "date_desc":
+                    courses = courses.OrderByDescending(s => s.Enrollments);
+                    break;
+                default:
+                    courses = courses.OrderBy(s => s.Credits);
+                    break;
+            }
+            int pageSize = 3;
+            int pageNumber = (page ?? 1);
+            return View(courses.ToPagedList(pageNumber, pageSize));
         }
+
+
+
+
 
         // GET: Courses/Details/5
         public ActionResult Details(int? id)

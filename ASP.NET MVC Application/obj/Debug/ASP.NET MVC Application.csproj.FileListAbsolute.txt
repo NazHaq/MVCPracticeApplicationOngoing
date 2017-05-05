@@ -163,3 +163,7 @@ C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC App
 C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\obj\Debug\ASP.NET MVC Application.csprojResolveAssemblyReference.cache
 C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\obj\Debug\ASP.NET MVC Application.dll
 C:\Users\nazmul.haque.HC\workspace\MVCPracticeApplicationOngoing\ASP.NET MVC Application\obj\Debug\ASP.NET MVC Application.pdb
+C:\Users\nazmul.haque\Documents\Visual Studio 2015\Projects\ASP.NET MVC Application\ASP.NET MVC Application\bin\PagedList.dll
+C:\Users\nazmul.haque\Documents\Visual Studio 2015\Projects\ASP.NET MVC Application\ASP.NET MVC Application\bin\PagedList.Mvc.dll
+C:\Users\nazmul.haque\Documents\Visual Studio 2015\Projects\ASP.NET MVC Application\ASP.NET MVC Application\bin\PagedList.xml
+C:\Users\nazmul.haque\Documents\Visual Studio 2015\Projects\ASP.NET MVC Application\ASP.NET MVC Application\bin\PagedList.Mvc.xml
